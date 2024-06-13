@@ -11,7 +11,7 @@ internal class Program {
            435, 643, 809, 874, 906, 620, 328, 369, 426, 561
         };
 
-        int highest = 99; 
+        int highest = 99;  
         int lowest = 1000;
         int sum = 0;
 
